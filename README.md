@@ -1,11 +1,28 @@
-Local YouTube GPT Creator is a Streamlit-based AI app that helps you generate YouTube video titles and scripts entirely offline using open-source Large Language Models (LLMs). Built with LangChain, ctransformers, and Wikipedia integration, the app runs cost-free with no API keys required.
+# 🦜🔗 Local YouTube GPT Creator
 
-Simply input a topic, and the app will:
+A fully local and cost-free YouTube video script generator using **quantized open-source LLMs** via [`ctransformers`](https://github.com/marella/ctransformers) and [`LangChain`](https://www.langchain.com/), powered by [Streamlit](https://streamlit.io).
 
-🎯 Generate a catchy YouTube video title
+## 🔥 Features
 
-📜 Research the topic using Wikipedia
+- ✅ Generate catchy **YouTube titles** from any topic
+- ✅ Create engaging **video scripts** using Wikipedia summaries
+- ✅ Runs **100% locally** (no OpenAI API required)
+- ✅ Supports **quantized GGUF models** (e.g., Mistral-7B)
+- ✅ Memory-enabled with **LangChain** for persistent context
+- ✅ Easy-to-use **Streamlit interface**
 
-🧠 Create a full-length video script using a locally hosted LLM
+---
 
-Perfect for content creators, educators, and AI enthusiasts who want full control and zero-cost AI tools.
+## 🖥️ Demo
+
+![App Screenshot](Screenshot 2025-04-25 070125.png)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/youtube-gpt-local.git
+cd youtube-gpt-local
