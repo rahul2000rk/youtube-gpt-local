@@ -13,6 +13,9 @@ A fully local and cost-free YouTube video script generator using **quantized ope
 
 ---
 
+## Download a quantized model
+Download a .gguf file (e.g., Mistral-7B-Instruct) from [TheBloke](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF) on Hugging Face. Place it in the project directory.
+
 ## 🖥️ Demo
 
 ![App Screenshot](screenshot.png)
