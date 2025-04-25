@@ -15,7 +15,7 @@ A fully local and cost-free YouTube video script generator using **quantized ope
 
 ## 🖥️ Demo
 
-![App Screenshot](Screenshot 2025-04-25 070125.png)
+![App Screenshot](screenshot.png)
 
 ---
 
